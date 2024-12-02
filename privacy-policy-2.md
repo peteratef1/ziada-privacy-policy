@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Fit Hub app takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+ZIADA app takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
@@ -34,4 +34,4 @@ we reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to [[peteratef.k@gmail.com]].
+For any questions or concerns regarding the privacy policy, please send us an email to [info@ziadadc.com]].
