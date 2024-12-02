@@ -1,37 +1,30 @@
-# Privacy Policy
+Privacy Policy
 
-ZIADA app takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+ZIADA app takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used.
 
+Privacy Policy Description
+ZIADA is committed to safeguarding your personal data. This Privacy Policy explains how we collect, use, and protect the information you provide to us through our app. Your privacy is a priority for us, and we aim to maintain transparency in how your data is handled.
 
-## Collection of Routine Information
+How We Use Your Data
+We use the information collected for the following purposes:
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+Password Security: Your passwords are securely encrypted using industry-standard hashing functions.
+Sensitive Data Security: Sensitive data is transmitted over secure HTTPS connections.
+No Third-Party Sharing: We do not store plaintext passwords or share sensitive data with third parties without your consent.
+Cookies
+Where necessary, this app uses cookies to store information about a visitor’s preferences and history to provide a more personalized experience. Cookies help us enhance your interaction with the app.
 
+Advertisement and Other Third Parties
+Our advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities within the app to display advertisements and other relevant content. These third parties have their own privacy policies, and we have no control over their practices. For more details on opting out of Google's cookie usage, visit Google's Privacy and Terms.
 
-## Cookies
+Links to Third-Party Websites
+We have included links to third-party websites for your convenience. However, we are not responsible for the privacy practices of these websites. Please be aware that the privacy policies of these third-party sites may differ from our own.
 
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
+Security
+The security of your personal information is crucial to us. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.
 
+Changes to This Privacy Policy
+This Privacy Policy is effective as of 01/12/2024 and will remain in effect except with respect to any changes made in the future. Changes will be effective immediately after they are posted on this page. We reserve the right to update or modify our Privacy Policy at any time, and we encourage you to review this page periodically. If we make any significant changes, we will notify you either through the email address you have provided or by placing a prominent notice within the app.
 
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
-
-## Links to Third Party Websites
-
-we have included links on this app for your use and reference.we are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-
-## Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-we reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our app.
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send us an email to [info@ziadadc.com]].
+Contact Us
+If you have any questions or concerns about our Privacy Policy, please contact us at [info@ziadadc.com].
